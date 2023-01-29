@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/ibrahim-portfolio/static/css/main.14d70039.css",
-    "main.js": "/ibrahim-portfolio/static/js/main.0942e18d.js",
-    "static/media/avatar.svg": "/ibrahim-portfolio/static/media/avatar.6acdd0f348322ba06d8275de5dd8ee85.svg",
+    "main.css": "/ibrahim-portfolio/static/css/main.1e0eac31.css",
+    "main.js": "/ibrahim-portfolio/static/js/main.b132e9c5.js",
     "static/media/Project-2.png": "/ibrahim-portfolio/static/media/Project-2.3b705f2f01639b47bbfb.png",
     "static/media/Project-5.png": "/ibrahim-portfolio/static/media/Project-5.7bfd6dc1ebb63bdfd5c3.png",
     "static/media/Project-1.png": "/ibrahim-portfolio/static/media/Project-1.5218b62aa72c6b1fd3b7.png",
@@ -12,11 +11,11 @@
     "static/media/Project-4.png": "/ibrahim-portfolio/static/media/Project-4.1a61c54e2401740fc5c4.png",
     "static/media/Project-6.png": "/ibrahim-portfolio/static/media/Project-6.9173f32306f620c4b87f.png",
     "index.html": "/ibrahim-portfolio/index.html",
-    "main.14d70039.css.map": "/ibrahim-portfolio/static/css/main.14d70039.css.map",
-    "main.0942e18d.js.map": "/ibrahim-portfolio/static/js/main.0942e18d.js.map"
+    "main.1e0eac31.css.map": "/ibrahim-portfolio/static/css/main.1e0eac31.css.map",
+    "main.b132e9c5.js.map": "/ibrahim-portfolio/static/js/main.b132e9c5.js.map"
   },
   "entrypoints": [
-    "static/css/main.14d70039.css",
-    "static/js/main.0942e18d.js"
+    "static/css/main.1e0eac31.css",
+    "static/js/main.b132e9c5.js"
   ]
 }
