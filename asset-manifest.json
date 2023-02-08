@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ibrahim-portfolio/static/css/main.36431502.css",
-    "main.js": "/ibrahim-portfolio/static/js/main.516cbfc7.js",
+    "main.css": "/ibrahim-portfolio/static/css/main.6c4e5a36.css",
+    "main.js": "/ibrahim-portfolio/static/js/main.b289feab.js",
     "static/media/Project-2.png": "/ibrahim-portfolio/static/media/Project-2.3b705f2f01639b47bbfb.png",
     "static/media/Project-5.png": "/ibrahim-portfolio/static/media/Project-5.7bfd6dc1ebb63bdfd5c3.png",
     "static/media/Project-1.png": "/ibrahim-portfolio/static/media/Project-1.5218b62aa72c6b1fd3b7.png",
@@ -9,13 +9,14 @@
     "static/media/Project-7.png": "/ibrahim-portfolio/static/media/Project-7.1d03cea64aca9b8e1327.png",
     "static/media/about.png": "/ibrahim-portfolio/static/media/about.34da930ab4436bc41a33.png",
     "static/media/Project-4.png": "/ibrahim-portfolio/static/media/Project-4.1a61c54e2401740fc5c4.png",
+    "static/media/Project-9.png": "/ibrahim-portfolio/static/media/Project-9.38f8f8b8920d5d45f2db.png",
     "static/media/Project-6.png": "/ibrahim-portfolio/static/media/Project-6.9173f32306f620c4b87f.png",
     "index.html": "/ibrahim-portfolio/index.html",
-    "main.36431502.css.map": "/ibrahim-portfolio/static/css/main.36431502.css.map",
-    "main.516cbfc7.js.map": "/ibrahim-portfolio/static/js/main.516cbfc7.js.map"
+    "main.6c4e5a36.css.map": "/ibrahim-portfolio/static/css/main.6c4e5a36.css.map",
+    "main.b289feab.js.map": "/ibrahim-portfolio/static/js/main.b289feab.js.map"
   },
   "entrypoints": [
-    "static/css/main.36431502.css",
-    "static/js/main.516cbfc7.js"
+    "static/css/main.6c4e5a36.css",
+    "static/js/main.b289feab.js"
   ]
 }
